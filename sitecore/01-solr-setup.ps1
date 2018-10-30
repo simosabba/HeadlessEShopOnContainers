@@ -5,7 +5,7 @@ Param(
     $solrHost = "solr",
     $solrSSL = $true,
     $nssmVersion = "2.24",
-    $JREVersion = "1.8.0_101"
+    $JREVersion = "1.8.0_191"
 )
 
 $JREPath = "C:\Program Files\Java\jre$JREVersion"

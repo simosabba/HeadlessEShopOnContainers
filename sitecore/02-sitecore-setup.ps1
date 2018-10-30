@@ -21,7 +21,7 @@ $SolrRoot = "C:\solr\solr-6.6.2"
 $SolrService = "solr-6.6.2"
 $SqlServer = "localhost"
 $SqlAdminUser = "scAdmin"
-$SqlAdminPassword = "b" 
+$SqlAdminPassword = "scAdmin" 
  
 #install client certificate for xconnect 
 $certParams = 
