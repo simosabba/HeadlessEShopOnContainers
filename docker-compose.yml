@@ -2,7 +2,7 @@ version: '3.4'
 
 services:
   eshop.webapp:
-    image: ${DOCKER_REGISTRY}eshopwebapp
+    image: eshopwebapp
     build:
       context: .
       dockerfile: src/Web/EShop.WebApp/Dockerfile

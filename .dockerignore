@@ -8,3 +8,4 @@ docker-compose.yml
 docker-compose.*.yml
 */bin
 */obj
+src/Web/eshop-jss-app/node_modules
